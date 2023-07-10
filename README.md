@@ -26,4 +26,6 @@ There are some steps while running the sql file
 
   ![5](https://github.com/subratdalai59/ott_subscription_plsql_project/assets/84226852/65615e71-4bde-4fa6-aa2f-c8eead7d9d37)
 
+NOTE :- for student id there is 50% discount in each subscription which is not applicable for normal id;
+
 
